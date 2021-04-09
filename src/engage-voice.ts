@@ -43,7 +43,7 @@ class RingCentralEngageVoice extends EventEmitter {
  
   static SERVER = 'https://aws91-l19-engage.lab.engage.ringcentral.com'
 
-  static RINGCENTRAL_SERVER = 'https://platform.ringcentral.com'
+  static RINGCENTRAL_SERVER = 'https://platform-cffe1ams.lab.nordigy.ru/restapi/oauth/authorize'
 
   constructor ({
     clientId,
