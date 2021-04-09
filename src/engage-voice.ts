@@ -40,8 +40,8 @@ class RingCentralEngageVoice extends EventEmitter {
     'https://portal.vacd.biz',
     'https://portal.virtualacd.biz'
   ]
-
-  static SERVER = 'https://engage.ringcentral.com'
+ 
+  static SERVER = 'https://aws91-l19-engage.lab.engage.ringcentral.com'
 
   static RINGCENTRAL_SERVER = 'https://platform.ringcentral.com'
 
